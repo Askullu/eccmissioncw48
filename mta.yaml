@@ -95,7 +95,7 @@ resources:
    parameters:
      service: destination
      service-plan: lite
-   type: org.cloudfoundry.managed-service
+   type: org.cloudfoundry.existing-service
 # Enterprise Messaging Service
  - name: BusinessPartnerValidation-ems
    parameters:
